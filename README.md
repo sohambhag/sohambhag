@@ -51,6 +51,20 @@
 - 🧠 Learning new data technologies
 - 🏋️ Fitness & staying active
 
+## 📂 Featured Projects
+
+### COVID-19 Data Exploration with SQL
+Explored global COVID-19 cases, deaths, and vaccination trends using SQL.
+
+Skills used:
+- Joins
+- Window Functions
+- CTEs
+- Aggregate Functions
+- Views
+
+🔗 Project Link  
+https://github.com/sohambhag/covid-sql-data-exploration
 
 ---
 
