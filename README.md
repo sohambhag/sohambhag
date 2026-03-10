@@ -61,6 +61,12 @@ Skills used:
 - Window Functions
 - CTEs
 - Aggregate Functions
+
+📊 COVID-19 Global Dashboard (Tableau)
+Interactive visualization of global COVID-19 trends including cases, deaths, and vaccinations.
+
+View Dashboard:
+https://public.tableau.com/shared/ZSBFKTS64?:display_count=n&:origin=viz_share_link
 - Views
 
 🔗 Project Link  
